@@ -1,9 +1,3 @@
-- title: Email
-  url: mailto://lxz0510@gmail.com
-  icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/lxz0510
-  icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/lxz0510/not-pure-poole
+  url: https://github.com/lxz0510/
   icon: fab fa-github
