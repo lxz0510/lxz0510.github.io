@@ -28,16 +28,12 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: lxz0510
-  card: summary
+
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/lxz0510
     - https://github.com/lxz0510
-google_site_verification: xxxxx
 lang: en
 
 sass:
@@ -56,4 +52,3 @@ sass:
 author:
   name: Songzi Vong
   url: https://github.com/lxz0510/
-  email: lxz0510@gmail.com
